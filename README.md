@@ -89,9 +89,31 @@ Integrante 3: Análise dos dados coletados, geração de relatórios e apoio na 
 ## 8. Equipe
 Ana Gabriele (@AnaGabrielee)
 
-[Nome do Integrante 2]
+Elion Santiago ( )
 
-[Nome do Integrante 3]
+Raniel Nascimento ( )
+
+## 9. Organização do Projeto
+
+O projeto está dividido em tarefas específicas para cada integrante da equipe, com base em suas áreas de especialização. Abaixo estão as responsabilidades de cada membro:
+
+### Ana Gabriele Costa Viana
+- Pesquisa de honeypots e IA para integração.
+- Escolha do modelo de honeypot a ser utilizado.
+- Desenvolvimento de scripts de configuração do honeypot.
+- Criação de documentação sobre a arquitetura inicial.
+  
+### Elion Santiago Feitoza
+- Pesquisa e implementação de modelos de IA.
+- Desenvolvimento e treinamento de modelos de IA para análise de tráfego malicioso.
+- Implementação de algoritmos preditivos para detectar padrões anômalos.
+- Testes de precisão dos modelos de IA.
+  
+### Raniel da Silva Nascimento 
+- Definição da arquitetura do sistema de honeypots.
+- Configuração da rede e infraestrutura de comunicação.
+- Testes de integração e comunicação entre honeypot e IA.
+- Configuração do ambiente de nuvem.
 
 ## 9. Licença
 Este projeto é de caráter acadêmico, desenvolvido no contexto de Trabalho de Conclusão de Curso, e não possui fins comerciais ou distribuição pública.
