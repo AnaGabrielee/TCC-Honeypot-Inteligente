@@ -1,4 +1,4 @@
-# 📚 Projeto de TCC — Honeypots Inteligentes com Modelos de Linguagem para Detecção e Análise de Ameaças Cibernéticas na Nuvem
+# Projeto de TCC — Honeypots Inteligentes com Modelos de Linguagem para Detecção e Análise de Ameaças Cibernéticas na Nuvem
 
 ## 1. Introdução
 
@@ -41,6 +41,7 @@ TCC-Honeypot-Inteligente/
 ├── docs/                # Relatórios e materiais finais em PDF
 ├── README.md            # Descrição geral do projeto
 └── LICENSE              # (opcional) Licença de uso
+```
 
 ## 5. Instruções de Execução (em desenvolvimento)
 As instruções detalhadas serão adicionadas conforme o desenvolvimento do projeto avançar.
