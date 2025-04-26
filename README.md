@@ -93,6 +93,6 @@ Ana Gabriele (@AnaGabrielee)
 
 [Nome do Integrante 3]
 
-9. Licença
+## 9. Licença
 Este projeto é de caráter acadêmico, desenvolvido no contexto de Trabalho de Conclusão de Curso, e não possui fins comerciais ou distribuição pública.
 
