@@ -40,7 +40,7 @@ TCC-Honeypot-Inteligente/
 │   └── ai_integration/
 ├── docs/                # Relatórios e materiais finais em PDF
 ├── README.md            # Descrição geral do projeto
-└── LICENSE              # (opcional) Licença de uso
+└── LICENSE              # Licença de uso
 ```
 
 ## 5. Instruções de Execução (em desenvolvimento)
