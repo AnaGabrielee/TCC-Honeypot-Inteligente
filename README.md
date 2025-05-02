@@ -87,11 +87,11 @@ Integrante 3: Análise dos dados coletados, geração de relatórios e apoio na 
  Redação e formatação do trabalho acadêmico final
 
 ## 8. Equipe
-Ana Gabriele (@AnaGabrielee)
+Ana Gabriele (@anagabrielee)
 
-Elion Santiago ( )
+Elion Santiago (@elionsantiago)
 
-Raniel Nascimento ( )
+Raniel Nascimento (@raniel22)
 
 ## 9. Organização do Projeto
 
