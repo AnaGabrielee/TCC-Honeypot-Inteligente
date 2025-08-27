@@ -1,3 +1,5 @@
+# TCC - Honeypots Inteligentes com Modelos de Linguagem para Detecção e Análise de Ameaças na Nuvem
+
 ## 1. Introdução
 
 Este projeto de Trabalho de Conclusão de Curso (TCC) foca no desenvolvimento de uma Prova de Conceito (PoC) de um **honeypot inteligente customizado**. Diferente de soluções tradicionais, este sistema utilizará um Modelo de Linguagem de Grande Escala (LLM), como a API do Gemini, para gerar interações dinâmicas e realistas com o objetivo de engajar atacantes, coletar dados detalhados sobre suas Táticas, Técnicas e Procedimentos (TTPs) e testar mecanismos de contenção em ambientes de nuvem.
